@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"material_theme_small_tab": true,
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

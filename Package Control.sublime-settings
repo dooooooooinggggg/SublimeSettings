@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"All Autocomplete",
+		"BoundKeys",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Markdown Extended",
+		"Material Theme",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Swift",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	]
+}

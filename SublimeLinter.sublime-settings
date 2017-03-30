@@ -1,0 +1,10 @@
+{
+	"user":
+	{
+		"lint_mode": "background",
+		"linters":
+		{
+		},
+		"mark_style": "fill"
+	}
+}
