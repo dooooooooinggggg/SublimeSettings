@@ -76,7 +76,7 @@ Markdownをリアルタイムプレビューしてくれるもの。
 
 ### [Swift](https://packagecontrol.io/packages/Swift)
 
-なぜ入れたのかわからない。
+なぜ入れたのか忘れた。
 
 ### [SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)
 
