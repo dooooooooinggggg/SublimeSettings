@@ -24,6 +24,10 @@
 
 Shift-JISを開くと文字化けしてしまうのを防ぐ。
 
+### [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
+
+JSDocを、/**とつけてtabキーを押すだけで生成してくれる。
+
 ### [GitGutter](https://packagecontrol.io/packages/GitGutter)
 
 最後のコミットを基準に、どの行が変更されたのかを、左端に表示してくれるプラグイン。
