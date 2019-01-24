@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"draw_white_space": "all",
-	"font_size": 14,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Better CoffeeScript",
@@ -15,9 +15,9 @@
 		"draw_active"
 	],
 	"material_theme_small_tab": true,
+	"scroll_past_end": true,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"scroll_past_end":true
+	"trim_trailing_white_space_on_save": true
 }
